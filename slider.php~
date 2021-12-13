@@ -1,0 +1,17 @@
+
+
+
+
+      <div class="slider">
+        <div id="coin-slider"> <a href="#"><img src="images/s2.jpeg" width="960" height="320" alt="" /><span><big>This is classified website</big><br />
+          This is web application to buy and sell anything
+         
+          </span></a> <a href="#"><img src="images/s1.jpeg" width="960" height="320" alt="" /><span><big>This is classified website</big><br />
+          Latest offers</span></a> 
+          
+           </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+
+
