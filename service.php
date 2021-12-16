@@ -20,7 +20,11 @@ include("nav.php");
 		  You can contact directly to buyer and seller no mediator is there.!
 		  We provide pet gromming and pet food according to your pet.!
 		  Its a easy way to communicate  and you can  esaily find your  pet at your doorstep.!
-		  
+		  </br>
+      1.pet food is available.</br>
+      2.gromming is available.</br>
+      3.medicine is available.</br>
+      4.pet toys is available.</br>
           
           
        
