@@ -19,7 +19,7 @@ if($res || $res1)
           <li class="active"><a href="usermain.php"><span>Home</span></a></li>
           <li><a href="useraddpost.php"><span>Add Post</span></a></li>
 
-          <li><a href='delete.php?name=<?php echo $name ?>'><span>Delete Post</span></a></li>
+          <li><a href='delete.php?name=<?php echo $name ?>'><span>View Post</span></a></li>
           <li><a href="login.php"><span>Logout</span></a></li> 
         </ul>
       </div>
